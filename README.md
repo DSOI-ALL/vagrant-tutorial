@@ -1,7 +1,7 @@
 vagrant-tutorial
 ================
 
-As mentioned in our [Vagrant Post](http://blog.sei.cmu.edu/post.cfm/devops-technologies-vagrant-345), [Vagrant](https://www.vagrantup.com/) is a tool to generate virtualized and provisioned environments based on a single, declarative script. Our tutorials will always include a Vagrantfile (the script that defines the virtual machine in which our tutorials will run).
+As mentioned in our introductory [Vagrant post](http://blog.sei.cmu.edu/post.cfm/devops-technologies-vagrant-345), [Vagrant](https://www.vagrantup.com/) is a tool to generate virtualized and provisioned environments based on a single, declarative script. Our tutorials will always include a Vagrantfile (the script that defines the virtual machine in which our tutorials will run).
 
 To use Vagrant with our tutorials, follow the below steps:
 
