@@ -7,7 +7,7 @@ To use Vagrant with our tutorials, follow the below steps:
 
 1. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 2. Install [Vagrant](https://www.vagrantup.com/downloads.html)
-3. Download a zip container of a tutorial. In this case, we will use the [SLS Vagrant Tutorial](github)
+3. Download a zip container of a tutorial. In this case, we will use the [SLS Vagrant Tutorial](https://github.com/SLS-ALL/vagrant-tutorial)
 4. From your command line, navigate to the extracted tutorial folder.
 5. From within the tutorial folder run `vagrant up`.
 6. Once the script has finished running, run `vagrant ssh`.
